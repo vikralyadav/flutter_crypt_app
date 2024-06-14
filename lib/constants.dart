@@ -1,0 +1,2 @@
+final String CRYPTO_RANK_API_KEY =
+    "b185ad20f82cb935fd4bca959e3d6108f223af2855f8900e5c5d6564fd00";
